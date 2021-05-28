@@ -2,8 +2,9 @@
 {
   "users": [
     {
-      "id": "1",
-      "name" : "Novel"
+      "email": "ailton@example.com",
+      "password": "123",
+      "name": "Ailton Sena"
     }
   ],
   "categories": [
