@@ -1,0 +1,23 @@
+{
+  "name": "api-fake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sena32/api-fake.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sena32/api-fake/issues"
+  },
+  "homepage": "https://github.com/Sena32/api-fake#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
